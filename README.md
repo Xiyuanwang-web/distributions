@@ -1,5 +1,5 @@
 # distributions
-I use machine learning to verify and predict the solution distribution of some simple polynomial equations defined over a finite field.
+We use machine learning to verify and predict the solution distribution of some simple polynomial equations defined over a finite field.
 
 ## Files
 - [distribution.ipynb](distribution.ipynb): original analysis by Xiyuan Wang
