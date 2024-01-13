@@ -4,6 +4,7 @@ We use machine learning to verify and predict the solution distribution of some 
 ## Files
 - [distribution.ipynb](distribution.ipynb): original analysis by Xiyuan Wang
 - [Sato-Tate.ipynb](Sato-Tate.ipynb): some improved analysis and additional hypothesis testing results by Fei Xie
+- [Sato-Tate_hyperelliptic.ipynb](Sato-Tate_hyperelliptic.ipynb): follow Fei Xie's analysis, did some experiments on hyperelliptic curves by Xiyuan Wang
 
 ## Conclusions
 
